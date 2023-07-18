@@ -22,7 +22,7 @@ wget http://cs231n.stanford.edu/tiny-imagenet-200.zip
 ```
 You then need to unzip the archive in the working directory (./tiny-imagenet-200), the structure is the following:
 ```
-- tiny-imagenet-2001/
+- tiny-imagenet-200/
     ─ train/
         - ...
     ─ val/
